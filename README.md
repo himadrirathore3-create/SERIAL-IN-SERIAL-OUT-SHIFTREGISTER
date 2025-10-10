@@ -6,9 +6,7 @@ To implement  SISO Shift Register using verilog and validating their functionali
 
 **SOFTWARE REQUIRED:**
 
-Quartus prime
-
-**THEORY**
+Quartus 
 
 **SISO shift Register**
 
@@ -30,13 +28,17 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 **PROGRAM**
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
-
-Developed by: RegisterNumber:
-
-*/
-
+```
+Developed by:Himadri s
+RegisterNumber:25011498
+```
 **RTL LOGIC FOR SISO Shift Register**
+<img width="1435" height="748" alt="image" src="https://github.com/user-attachments/assets/58c4718d-a1d1-46e6-85a7-ccfbc9599b40" />
+
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+<img width="1428" height="761" alt="image" src="https://github.com/user-attachments/assets/a8c16d12-969f-4980-a230-b7ebc7af4160" />
+
 
 **RESULTS**
+SISO Shift Register is succesfully verified by using verilog and validating their functionality using their functional tables
